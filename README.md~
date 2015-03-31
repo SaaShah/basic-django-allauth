@@ -1,8 +1,6 @@
 # basic-django-allauth
 Basic implementation of django-allauth.
 
-doc: http://django-allauth.readthedocs.org/en/latest/index.html
-
 - Django 1.7
 - Python 2.7
 
